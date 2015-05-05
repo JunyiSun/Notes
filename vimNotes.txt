@@ -3,4 +3,6 @@ type i to enter insert mode
 type esc to enter view mode 
 In view Mode: 
 :wq => write, save and exit vim 
+:q  => quit without save (need to undo first)
+u   => undo
 
