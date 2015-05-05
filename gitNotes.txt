@@ -13,5 +13,4 @@ The message below is for you to document any changes.
 >> git commit -m "type any message here" 
 Finally, you need to push it to the server. 
 >> git push origin master 
-Note: Need fill in you git username and password to commit. 
-
+Note: May need fill in you git username and password to commit.  
