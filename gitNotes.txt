@@ -13,4 +13,12 @@ The message below is for you to document any changes.
 >> git commit -m "type any message here" 
 Finally, you need to push it to the server. 
 >> git push origin master 
-Note: May need fill in you git username and password to commit.  
+Note: May need fill in you git username and password to commit.
+Use git log for tracking commit messages of a file
+>> git log fileName
+use git status to know current status of github
+whether or not your local repository is synced with the server's repository. 
+>> git status
+>> git diff nameOfFile
+ 
+	  
