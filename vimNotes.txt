@@ -1,0 +1,6 @@
+View mode and Insert mode
+type i to enter insert mode
+type esc to enter view mode 
+In view Mode: 
+:wq => write, save and exit vim 
+
