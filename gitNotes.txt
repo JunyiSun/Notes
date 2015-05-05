@@ -1,0 +1,17 @@
+1. create a repository on GITHUB
+2. copy the link of the repository
+3. create a new directory on my computer
+4. Type these git commands inside that directory using terminal 
+
+>> git clone https://github.com/JunyiSun/JavaOOP.git //Clone URL 
+Add any files you want manually within the same directory 
+Once you're done, you need to add it to github. 
+To add to your computer's local repository 
+>> git add * 
+Then, you need to commit it. 
+The message below is for you to document any changes. 
+>> git commit -m "type any message here" 
+Finally, you need to push it to the server. 
+>> git push origin master 
+Note: Need fill in you git username and password to commit. 
+
